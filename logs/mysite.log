@@ -1,0 +1,8 @@
+[15/May/2022 16:28:47] DEBUG [polls.views:34] vote().question_id: 1
+[15/May/2022 16:32:36] DEBUG [polls.views:34] vote().question_id: 3
+[15/May/2022 16:32:49] DEBUG [polls.views:34] vote().question_id: 2
+[03/Jul/2022 00:03:08] DEBUG [polls.views:34] vote().question_id: 1
+[03/Jul/2022 14:28:06] DEBUG [polls.views:34] vote().question_id: 1
+[03/Jul/2022 17:39:59] DEBUG [polls.views:34] vote().question_id: 1
+[03/Jul/2022 17:45:11] DEBUG [polls.views:34] vote().question_id: 1
+[10/Aug/2022 16:35:05] DEBUG [polls.views:34] vote().question_id: 1

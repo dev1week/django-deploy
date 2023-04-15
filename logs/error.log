@@ -1,0 +1,25 @@
+[2022-07-03 00:01:24 +0900] [628] [INFO] Starting gunicorn 20.1.0
+[2022-07-03 00:01:24 +0900] [628] [INFO] Listening at: unix:/tmp/gunicorn.sock (628)
+[2022-07-03 00:01:24 +0900] [628] [INFO] Using worker: sync
+[2022-07-03 00:01:24 +0900] [629] [INFO] Booting worker with pid: 629
+[2022-07-03 00:06:32 +0900] [647] [INFO] Starting gunicorn 20.1.0
+[2022-07-03 00:06:32 +0900] [647] [INFO] Listening at: unix:/tmp/gunicorn.sock (647)
+[2022-07-03 00:06:32 +0900] [647] [INFO] Using worker: sync
+[2022-07-03 00:06:32 +0900] [648] [INFO] Booting worker with pid: 648
+[2022-07-03 16:08:29 +0900] [2853] [INFO] Starting gunicorn 20.1.0
+[2022-07-03 16:08:29 +0900] [2853] [INFO] Listening at: unix:/tmp/gunicorn.sock (2853)
+[2022-07-03 16:08:29 +0900] [2853] [INFO] Using worker: sync
+[2022-07-03 16:08:29 +0900] [2854] [INFO] Booting worker with pid: 2854
+[2022-07-03 16:52:19 +0900] [2853] [INFO] Handling signal: term
+[2022-07-03 16:52:19 +0900] [2854] [INFO] Worker exiting (pid: 2854)
+[2022-07-03 16:52:19 +0900] [2853] [INFO] Shutting down: Master
+[2022-07-03 17:44:41 +0900] [3030] [INFO] Starting gunicorn 20.1.0
+[2022-07-03 17:44:41 +0900] [3030] [INFO] Listening at: unix:/tmp/gunicorn.sock (3030)
+[2022-07-03 17:44:41 +0900] [3030] [INFO] Using worker: sync
+[2022-07-03 17:44:41 +0900] [3031] [INFO] Booting worker with pid: 3031
+[2022-07-03 20:16:09 +0900] [3030] [CRITICAL] WORKER TIMEOUT (pid:3031)
+[2022-07-03 20:16:09 +0900] [3031] [INFO] Worker exiting (pid: 3031)
+[2022-07-03 20:16:10 +0900] [3047] [INFO] Booting worker with pid: 3047
+[2022-07-03 21:50:20 +0900] [3030] [CRITICAL] WORKER TIMEOUT (pid:3047)
+[2022-07-03 21:50:20 +0900] [3047] [INFO] Worker exiting (pid: 3047)
+[2022-07-03 21:50:20 +0900] [4023] [INFO] Booting worker with pid: 4023
